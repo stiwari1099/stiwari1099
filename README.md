@@ -1,32 +1,66 @@
-👋 Hey, I’m Shubham Tiwari
+# Hi there 👋 I'm Shubham Tiwari
 
-🧠 Data Scientist I @ Sasken Technologies  
-🚀 Working at the intersection of LLMs, Generative AI, and Computer Vision  
+AI Engineer | Data Scientist | GenAI Developer
 
-I build intelligent systems that don’t just process data — they understand it.
+I build production-ready AI applications using
 
-Currently exploring:
-- 🤖 Large Language Models & GenAI applications  
-- 👁️ Computer Vision systems  
-- 📊 End-to-end ML pipelines (from messy data to production)  
-- 🧠 Retrieval-Augmented Generation (RAG), embeddings, vector databases  
+• Large Language Models
+• RAG Pipelines
+• Computer Vision
+• Machine Learning
+• FastAPI
+• LangChain
+• LlamaIndex
 
-You could say I’m a “one-in-all” AI engineer —  
-part data scientist, part ML engineer, part prompt architect.
-
----
-### 🔬 What I Care About
-
-- Turning research ideas into real-world systems  
-- Blending traditional ML fundamentals with modern deep learning  
-- Building scalable AI systems, not just notebooks  
+Currently working as a Data Scientist at Sasken Technologies.
 
 ---
 
-### 📫 Let’s Connect
+## Tech Stack
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shubhamtiwari99/
-- ✉️ Email: shubham.tiwari1699@outlook.com
+Python
+SQL
+PyTorch
+TensorFlow
+OpenCV
+LangChain
+LlamaIndex
+FastAPI
+Qdrant
+FAISS
+Milvus
+AWS
+Docker
+Git
+
 ---
 
-> “Build things that make intelligence scalable.”
+## Featured Projects
+
+🚀 ADAS Lane Detection
+
+🚀 Financial Fraud Detection
+
+🚀 Predictive Maintenance
+
+🚀 RAG Chatbot
+
+🚀 Confluence Knowledge Search
+
+---
+
+## Currently Learning
+
+Multi-Agent AI
+MCP
+Agentic AI
+Kubernetes
+AWS
+
+---
+
+Let's connect!
+
+LinkedIn
+Email
+Portfolio
