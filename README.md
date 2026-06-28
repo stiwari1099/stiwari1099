@@ -61,6 +61,6 @@ AWS
 
 Let's connect!
 
-LinkedIn
-Email
-Portfolio
+LinkedIn: https://www.linkedin.com/in/stiwari99/
+Email: shubham.tiwari1699@outlook.com
+
